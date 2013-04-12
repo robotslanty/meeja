@@ -1,0 +1,13 @@
+{
+  "name": "Meeja",
+  "description": "Simple image server",
+  "version": "0.0.1",
+  "author": "Rob Johnson <meeja@entitydigital.co.uk>",
+  "main": "./server.js",
+  "engines": { "node": ">= 0.8.0" },
+  "dependencies": {
+    "gm": "*",
+    "mime": "*",
+    "underscore": "*"
+  }
+}
