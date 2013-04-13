@@ -8,6 +8,8 @@
   "dependencies": {
     "gm": "*",
     "mime": "*",
-    "underscore": "*"
+    "underscore": "*",
+    "connect": "*",
+    "barista": "*"
   }
 }

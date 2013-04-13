@@ -77,7 +77,7 @@ Image.prototype.process = function(outStream) {
       }
     });
   } else {
-    self.emit('error', 'File is not an image');
+    self.emit('error', new Error('File is not an image'));
   }
 };
 
