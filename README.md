@@ -5,6 +5,7 @@ Installation
 ------------
 
 Clone the repository then:
+
     npm install
 
 Run
